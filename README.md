@@ -1,5 +1,9 @@
 # Horiseon - Search Engine Optimization
 
+## Purpose
+
+The purpose of this task was to take an existing website and make it more accessible.  Making the website more accessible is good for business as it ensures people with disabilities the chance to view this website with assitive technologies.
+
 ## Built With
 
 * HTML
