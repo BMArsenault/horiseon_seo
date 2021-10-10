@@ -19,3 +19,4 @@ The purpose of this task was to take an existing website and make it more access
 
 * <a href="https://github.com/BMArsenault/horiseon_seo" target="_blank">Github</a>
 * <a href="http://127.0.0.1:5500/index.html" target="_blank">Horiseon</a>
+* [Screenshot](127.0.0.1_5500_index.html.png)
