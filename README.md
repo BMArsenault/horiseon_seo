@@ -14,3 +14,7 @@ The purpose of this task was to take an existing website and make it more access
 * <a href="https://resizing.app/blog/how-to-resize-image-without-losing-quality/" target="_blank">Resizing App</a>
 * <a href="https://w3schools.com" target="_blank">Online Web Tutorials</a>
 * <a href="https://google.com" target="_blank">Google</a>
+
+## Links
+
+* <a href="https://github.com/BMArsenault/horiseon_seo" target="_blank">Github</a>
