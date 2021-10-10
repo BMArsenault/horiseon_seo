@@ -17,6 +17,6 @@ The purpose of this task was to take an existing website and make it more access
 
 ## Links
 
-* <a href="https://github.com/BMArsenault/horiseon_seo" target="_blank">Github</a>
-* <a href="http://127.0.0.1:5500/index.html" target="_blank">Horiseon</a>
-* [Screenshot](https://github.com/BMArsenault/horiseon_seo/blob/main/Develop/assets/images/Horiseon_Screenshot.png)
+* Live Github Pages: https://bmarsenault.github.io/horiseon_seo/
+* Repo (here): https://github.com/BMArsenault/horiseon_seo
+* Screenshot: https://github.com/BMArsenault/horiseon_seo/blob/main/Develop/assets/images/Horiseon_Screenshot.png
